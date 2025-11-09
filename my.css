@@ -1,0 +1,34 @@
+.my_container{
+  margin-top: 100px;
+}
+
+.login_style {
+  background-color: rgb(222, 236, 255);
+  padding: 30px 30px;
+}
+
+.card_radius {
+  border-radius: 20px;
+}
+.knopka{
+background-color: #54B4CA;
+color: white;
+width: 100%;
+
+}
+.knopka:hover{
+  color:  rgb(222, 236, 255);
+}
+
+.block_left{
+  background-color: #80b4ff;
+}
+
+img{
+  max-height: 679px;
+  object-fit: contain; /* Сохраняет пропорции без растягивания */
+}
+h2{
+  padding-top: 20px;
+
+}
